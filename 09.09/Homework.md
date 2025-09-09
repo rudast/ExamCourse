@@ -1,5 +1,7 @@
 # Homework
 
+ - Deadline: 13.09.25
+
 ## Problem 1
 ![alt text](../images/image.png)
 
