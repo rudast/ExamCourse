@@ -1,6 +1,7 @@
 # Homework
 
  - Deadline: 13.09.25
+ - Board: https://board.vk.com/?uid=afc4bcaf-4c65-4bfc-b12e-4ddaccba0f99
 
 ## Problem 1
 ![alt text](../images/image.png)
